@@ -7,6 +7,7 @@ public class Calculator implements ICalculator {
 		
 syso("changed from local");
 syso("changed today 24122019");
+syso("changed today 24122019 second time");
 		return a+b;
 	}
 
